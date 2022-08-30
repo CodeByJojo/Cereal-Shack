@@ -37,10 +37,16 @@ header img{
   margin-top: 50px;
 }
 
+#smallPic {
+  display: none;
+}
+
+
 header {
   display: flex;
   justify-content: center;
 }
+
 
 h1 {
   display: flex;
@@ -175,6 +181,10 @@ ul {
   h2 {
     text-align: center;
   }
+
+  /* #bigPic {
+    display: none;
+  } */
 
   li {
     
